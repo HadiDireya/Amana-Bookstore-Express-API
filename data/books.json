@@ -22,7 +22,7 @@
       "language": "English",
       "publisher": "Al-Biruni Academic Press",
       "rating": 4.8,
-      "reviewCount": 23,
+      "reviewCount": 24,
       "inStock": true,
       "featured": true
     },
@@ -76,6 +76,29 @@
       "rating": 4.7,
       "reviewCount": 12,
       "inStock": false,
+      "featured": false
+    },
+    {
+      "id": "4",
+      "title": "Relativity Essentials",
+      "author": "Dr. Sara Malik",
+      "description": "",
+      "price": 79.99,
+      "image": "",
+      "isbn": "",
+      "genre": [
+        "Physics"
+      ],
+      "tags": [
+        "Relativity",
+        "Advanced"
+      ],
+      "datePublished": "2024-04-01",
+      "language": "English",
+      "publisher": "",
+      "rating": 0,
+      "reviewCount": 0,
+      "inStock": true,
       "featured": false
     }
   ]

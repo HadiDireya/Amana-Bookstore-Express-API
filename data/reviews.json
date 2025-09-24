@@ -109,6 +109,16 @@
       "comment": "Great integration of geophysics with climate science. The plate tectonics chapters are well-written and current.",
       "timestamp": "2024-03-08T11:40:00Z",
       "verified": true
+    },
+    {
+      "id": "review-61",
+      "bookId": "1",
+      "author": "Prof. Lina Idris",
+      "rating": 5,
+      "title": "Great overview",
+      "comment": "Detailed explanations and helpful figures.",
+      "timestamp": "2025-09-24T10:01:03.518Z",
+      "verified": false
     }
   ]
 }
