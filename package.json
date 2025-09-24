@@ -1,0 +1,25 @@
+{
+  "name": "amana-bookstore-express-api",
+  "version": "1.0.0",
+  "description": "Initial dataset and project structure for building a comprehensive Express.js REST API for the Amana Bookstore - a specialized academic bookstore focusing on science and educational texts.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HadiDireya/Amana-Bookstore-Express-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HadiDireya/Amana-Bookstore-Express-API/issues"
+  },
+  "homepage": "https://github.com/HadiDireya/Amana-Bookstore-Express-API#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
